@@ -1,0 +1,7 @@
+{
+  "name": "ChatGPT Lite",
+  "description": "A fast, lightweight, and clean AI chat assistant powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
